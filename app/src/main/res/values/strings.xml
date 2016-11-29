@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaginationList</string>
+    <string name="textview_hint">image search</string>
+    <string name="search_btn">Search</string>
+    <string name="error_empty_text">please search something else or text not empty</string>
+    <string name="no_images_found">No images found, try different</string>
+</resources>
